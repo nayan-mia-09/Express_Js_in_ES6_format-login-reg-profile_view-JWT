@@ -1,0 +1,30 @@
+{
+  "name": "express_js_in_es6_format-login-reg-profile_view-jwt",
+  "version": "1.0.0",
+  "description": "Register Log in JWT",
+  "main": "index.js",
+  "scripts": {
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayan-mia-09/Express_Js_in_ES6_format-login-reg-profile_view-JWT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayan-mia-09/Express_Js_in_ES6_format-login-reg-profile_view-JWT/issues"
+  },
+  "homepage": "https://github.com/nayan-mia-09/Express_Js_in_ES6_format-login-reg-profile_view-JWT#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.3"
+  }
+}
